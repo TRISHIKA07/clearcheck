@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Project Directories
+logs/
+uploads/
+compliance_reports/
+
+# IDE files
+.vscode/
+.idea/
+.gemini/
+
+# System files
+Thumbs.db
+Desktop.ini

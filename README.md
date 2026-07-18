@@ -163,9 +163,6 @@ compliancecore-ai/
 - Multi-bank / multi-tenant deployment
 - Optional secure cloud deployment for enterprise scale
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see the `LICENSE` file for details.
 
 ---
 

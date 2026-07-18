@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ ComplianceCore AI
+# 🛡️ ClearCheck
 
 ### AI-Powered Financial Compliance & Risk Triage Platform
 
@@ -35,7 +35,7 @@ Runs 100% locally on **Gemma (via Ollama)** — no cloud, no external APIs, no d
 
 ## 📖 Introduction
 
-**ComplianceCore AI** is an AI-powered compliance and risk triage platform built for FinTech and banking teams. It automatically reviews KYC documents and transaction records, flags inconsistencies, and produces audit-ready risk reports — combining deterministic rule checks with local AI reasoning powered by **Gemma**, running entirely offline through **Ollama**.
+**ClearCheck** is an AI-powered compliance and risk triage platform built for FinTech and banking teams. It automatically reviews KYC documents and transaction records, flags inconsistencies, and produces audit-ready risk reports — combining deterministic rule checks with local AI reasoning powered by **Gemma**, running entirely offline through **Ollama**.
 
 ## ❗ Problem Statement
 
